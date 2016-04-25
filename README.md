@@ -1,2 +1,1 @@
-# EgyptianPyramid
-# TipCalculator
+# EgyptianPyrami
