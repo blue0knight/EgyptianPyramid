@@ -1,3 +1,6 @@
+Sam was here.
+
+
 Wyncode: Egyptian Pyramid
 
 Work with the same program as last time, except now we want it to make a real-deal double-sided pyramid!
